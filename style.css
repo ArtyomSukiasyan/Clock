@@ -76,7 +76,6 @@
 }
 
 .hand {
-  --rotation: 0;
   position: absolute;
   bottom: 50%;
   left: 50%;
