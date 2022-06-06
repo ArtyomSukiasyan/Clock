@@ -44,33 +44,42 @@
 .number1 {
   transform: rotate(30deg);
 }
+
 .number2 {
   transform: rotate(60deg);
 }
+
 .number3 {
   transform: rotate(90deg);
 }
+
 .number4 {
   transform: rotate(120deg);
 }
+
 .number5 {
   transform: rotate(150deg);
 }
+
 .number6 {
   transform: rotate(180deg);
 }
+
 .number7 {
   transform: rotate(210deg);
 }
+
 .number8 {
   transform: rotate(240deg);
 }
 .number9 {
   transform: rotate(270deg);
 }
+
 .number10 {
   transform: rotate(300deg);
 }
+
 .number11 {
   transform: rotate(330deg);
 }
